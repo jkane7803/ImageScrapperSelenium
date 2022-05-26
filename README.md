@@ -20,4 +20,5 @@ Main.py is for my project, and only does "Chrome", which is fine for me.
 
 Lastily, and this is very important for testing reasons, make you downloaded "ChromeDriver" onto your computer, and change the value of the variable 
 "DRIVER_PATH" to the path that your "ChromeDriver" executable is located at in your files. Without this, my microservice would not function at all. 
-So please, download it before using my microservice. If you wish to know more about how to downloard said "ChromeDriver", DM me on Microsoft Teams.
+So please, download it before using my microservice. If you wish to know more about how to downloard said "ChromeDriver", DM me on Microsoft Teams (this
+message only applies to my group members).

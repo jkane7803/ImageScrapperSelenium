@@ -22,3 +22,7 @@ Lastily, and this is very important for testing reasons, make you downloaded "Ch
 "DRIVER_PATH" to the path that your "ChromeDriver" executable is located at in your files. Without this, my microservice would not function at all. 
 So please, download it before using my microservice. If you wish to know more about how to downloard said "ChromeDriver", DM me on Microsoft Teams (this
 message only applies to my group members).
+
+# Note
+
+This is an old and unfinished project of mine that may not no longer work as intended anymore. I am only keeping this project around for historicity sake, so don't go using this unless you know what you are doing. Thank you for your time.
